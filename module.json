@@ -1,0 +1,15 @@
+{
+  "id": "vtm5e-ru",
+  "title": "World Of Darkness V5 Russian",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "languages": [
+    {"lang": "ru",
+    "name": "Russian",
+    "path": "ru.json"}
+  ],
+  "download": "https://github.com/kevintheradioguy/HtR_ru/raw/main/wod-v5-russian-main.zip"
+}
